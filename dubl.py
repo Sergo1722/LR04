@@ -13,7 +13,7 @@ def duplicate():
   pass
 
 
-def duplicate():
+def duplicate2():
   pass
 
 
